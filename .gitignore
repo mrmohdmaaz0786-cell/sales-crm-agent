@@ -1,0 +1,15 @@
+.adk/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+.env
+.env.*
+
+*.db*
+*.sqlite*
+
+logs/
+*.log*
